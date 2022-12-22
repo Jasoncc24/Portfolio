@@ -1,11 +1,11 @@
 import React from "react";
 
 //images
-import weather from '../assets/portfolio/weatherapp.png'
-import memoryM from '../assets/portfolio/memorymatch.png'
-import CRsite from '../assets/portfolio/crsite.png'
-import Mernwb from '../assets/portfolio/mernwb.png'
-import Enchating from '../assets/portfolio/enchantingsalon.png'
+import weather from '../assets/portfolio/weather.png'
+import memoryM from '../assets/portfolio/memorymatchg.png'
+import CRsite from '../assets/portfolio/crcontracting.png'
+import Mernwb from '../assets/portfolio/workoutbuddy.png'
+import Enchating from '../assets/portfolio/salon.png'
 
 
 
