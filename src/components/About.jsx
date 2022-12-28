@@ -13,7 +13,7 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-6">
+        <p className="text-[25px] mt-6 font-bold">
         Hello, I'm a Software Engineer building my version of the Digital World one step at a time. 
         I find enjoyment in solving problems and helping people live happier lives through leveraging technology. 
         I bring my strong entrepreneurial mindset to life by building robust scalable software that has a direct impact on end-users with the goal of improving the customer experience.

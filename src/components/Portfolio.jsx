@@ -6,6 +6,7 @@ import memoryM from '../assets/portfolio/memorymatchg.png'
 import CRsite from '../assets/portfolio/crcontracting.png'
 import Mernwb from '../assets/portfolio/workoutbuddy.png'
 import Enchating from '../assets/portfolio/salon.png'
+import Todo from '../assets/portfolio/Todoapp.png'
 
 
 
@@ -32,12 +33,18 @@ const Portfolio = () => {
     },
     {
       id: 4,
+      src: Todo,
+      link: 'https://todo-app-tracker.netlify.app/',
+      repo: 'https://github.com/Jasoncc24/Todo-app-CRUD-'
+    },
+    {
+      id: 5,
       src: weather,
       link: 'https://leafy-youtiao-d19eb0.netlify.app/',
       repo: 'https://github.com/Jasoncc24/React-Weather-App'
     },
     {
-      id: 5,
+      id: 6,
       src: memoryM,
       link: 'https://rainbow-kashata-2d4307.netlify.app/',
       repo: 'https://github.com/Jasoncc24/Memory-Match-Game'
@@ -54,7 +61,7 @@ const Portfolio = () => {
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
             Portfolio
           </p>
-          <p className="py-6">Check out some of my work right here</p>
+          <p className="py-6">Check out some of the cool things i built</p>
         </div>
 
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
