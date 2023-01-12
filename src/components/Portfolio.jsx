@@ -7,6 +7,7 @@ import CRsite from '../assets/portfolio/crcontracting.png'
 import Mernwb from '../assets/portfolio/workoutbuddy.png'
 import Enchating from '../assets/portfolio/salon.png'
 import Todo from '../assets/portfolio/Todoapp.png'
+import xpense from '../assets/portfolio/xpense.png'
 
 
 
@@ -15,9 +16,9 @@ const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: CRsite,
-      link: 'https://crcontractinginc.com/',
-      repo: 'https://github.com/Jasoncc24/CR-Contracting-Inc'
+      src: xpense,
+      link: 'https://xpense-t.netlify.app/',
+      repo: 'https://github.com/Jasoncc24/Xpense'
     },
     {
       id: 2,
